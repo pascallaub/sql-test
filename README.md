@@ -1,4 +1,4 @@
-
+##
 # Kontakte-Verwaltungssystem
 
 Dieses Python-Skript ermöglicht die Verwaltung von Kontakten in einer MySQL-Datenbank. Es bietet Funktionen zum Hinzufügen, Anzeigen, Aktualisieren und Löschen von Kontakten.
